@@ -18,7 +18,7 @@ Qu’est-ce qu’on appelle agilité à l’échelle ?
 
 L’agilité à l’échelle ou agile@scale est un concept qui est apparu au début des années 2010 mais qui s’est popularisé ces dernières années avec les transformations agiles mises en place dans les grands groupes.
 Initialement réservé aux équipes informatiques, l’agilité s’est progressivement diffusée dans tous les services de l’entreprise. Cette mise à l’échelle a permis, de mon point de vue, de répondre à deux besoins :
-- La complexité des produits grandit : technologies utilisées, typologie de clients, canaux de distribution. Ils sont à l’image de l’environnement dans lequel ils évoluent : Time To Market réduit, concurrence, nouveaux usages. Afin de répondre à tous ces enjeux, les entreprises mettent en place des organisations qui nécessitent la collaboration de plusieurs équipes IT.
+- La complexité des produits grandit : technologies utilisées, typologie de clients, canaux de distribution. Ils sont à l’image de l’environnement dans lequel ils évoluent : Time To Market réduit, concurrence, nouveaux usages. Afin de répondre à tous ces enjeux, les entreprises mettent en place des organisations qui nécessitent la collaboration de plusieurs équipes IT ;
 - Diffuser l’agilité dans l’ensemble des services et départements afin d’en faire une nouvelle culture d’entreprise.
 Afin d’accompagner ce changement, les entreprises ont lancé des chantiers importants de déploiement de l’agilité à travers ce qu’on appelle aujourd’hui les transformations agiles.
 
@@ -37,9 +37,9 @@ Les principes de SAFe :
 SAFe est recommandé pour les équipes de 100 à plusieurs milliers de personnes.
 Il propose une organisation multi-équipes appelée ART (Agile Release Train) afin de développer l'incrément planifié pendant le PI Planning (Program Increment Planning).
 Le framework met en avant tout un panel de rôles et de rituels afin de déployer l’agilité. Il propose quatre niveaux d’implémentation de son modèle en fonction de la taille et de la maturité de l’organisation :
-- Essential : représente le niveau minimum. Permet de synchroniser les équipes d’un même ART.
-- Large solution : inclut le niveau essential. Permet de synchroniser plusieurs ART.
-- Portfolio : permet d’aligner la stratégie de l’entreprise sur les cycles de développements des équipes.
+- Essential : représente le niveau minimum. Permet de synchroniser les équipes d’un même ART ;
+- Large solution : inclut le niveau essential. Permet de synchroniser plusieurs ART ;
+- Portfolio : permet d’aligner la stratégie de l’entreprise sur les cycles de développements des équipes ;
 - Full : intègre les trois niveaux précédents essential, large solution et portfolio.
 
 SAFe est largement décrié dans la communauté agile pour sa complexité de mise en œuvre, son processus rigide et ses nombreuses certifications.
@@ -60,12 +60,12 @@ D’après l’auteur de cet [article](https://www.jeremiahlee.com/posts/failed-
 ![image](/assets/images/agilite-echelle/less.png){:class="img-responsive"}
 
 LeSS a été créé par Bas Vodde et Craig Larman en 2013. Il est en grande partie basé sur Scrum et propose donc une organisation multi-équipes Scrum mais avec quelques changements :
-- Le sprint planning : il est organisé en deux parties. La première partie inclut l’ensemble des équipes et permet de synchroniser le travail à venir notamment sur les éventuelles dépendances. Quant à la seconde partie, elle se fait par équipe.
-- Le daily Scrum : il se fait par équipe. Si deux équipes travaillent sur la même fonctionnalité, un membre de l’équipe A peut participer au daily de l’équipe B en tant qu’observateur afin de partager les informations.
-- Le overvall product backlog refinement : il est optionnel et plus court que le PBR. Il inclut le Product Owner et les membres de toutes les équipes. L’objectif est de décider la répartition des stories sur le prochain sprint.
-- Le product backlog refinement (PBR) : il est identique à Scrum. Les équipes peuvent se regrouper si elles travaillent sur des fonctionnalités communes.
-- La sprint review : elle se fait avec l’ensemble des équipes.
-- La retrospective : elle est identique à Scrum.
+- Le sprint planning : il est organisé en deux parties. La première partie inclut l’ensemble des équipes et permet de synchroniser le travail à venir notamment sur les éventuelles dépendances. Quant à la seconde partie, elle se fait par équipe ;
+- Le daily Scrum : il se fait par équipe. Si deux équipes travaillent sur la même fonctionnalité, un membre de l’équipe A peut participer au daily de l’équipe B en tant qu’observateur afin de partager les informations ;
+- Le overvall product backlog refinement : il est optionnel et plus court que le PBR. Il inclut le Product Owner et les membres de toutes les équipes. L’objectif est de décider la répartition des stories sur le prochain sprint ;
+- Le product backlog refinement (PBR) : il est identique à Scrum. Les équipes peuvent se regrouper si elles travaillent sur des fonctionnalités communes ;
+- La sprint review : elle se fait avec l’ensemble des équipes ;
+- La retrospective : elle est identique à Scrum ;
 - La overall rétrospective : elle inclut le Product Owner, les Scrum Masters et des représentants tournant de chaque équipe. Elle est centrée sur comment améliorer le système dans sa globalité plutôt que sur une seule équipe. Elle dure 1h30 pour un sprint de 2 semaines.
 
 Comme Scrum, une organisation d’équipes LeSS a un seul Product Owner, un seul product backlog, un seul Definition of Done et un même sprint.

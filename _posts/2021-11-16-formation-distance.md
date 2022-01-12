@@ -13,7 +13,7 @@ comments: false
 
 
 J'ai eu l'occasion de suivre en janvier dernier une formation sur "Faciliter et former à distance". Elle avait lieu au bon moment pour plusieurs raisons :
-- Je devais animer une formation d'initiation à l'agilité en interne. Celle-ci était initialement prévue début 2020. Entre-temps, il y a eu la Covid et nous attendions un retour sur site pour la re-planifier.
+- Je devais animer une formation d'initiation à l'agilité en interne. Celle-ci était initialement prévue début 2020. Entre-temps, il y a eu la Covid et nous attendions un retour sur site pour la re-planifier ;
 - L’équipe dans laquelle j’évolue travaille à distance depuis le début de la crise et animer les réunions et ateliers d’équipe est plus difficile qu’en présentiel.
 
 Comme le retour sur site n’était pas prévu pour tout de suite, je me suis résigné à la donner à distance. J’avais déjà une certaine expérience de la facilitation à distance depuis le début de la crise sanitaire mais animer toute une journée de formation était un vrai challenge pour moi.
