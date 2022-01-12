@@ -50,10 +50,10 @@ SAFe est largement décrié dans la communauté agile pour sa complexité de mis
 
 Henrik Kniberg et Anders Ivarsson ont publié un document en octobre 2012 décrivant ce qui était mis en place dans les équipes Spotify.
 
-Le “modèle” Spotify, qui n’en est pas un pour les auteurs, propose une organisation en squads, elles-même regroupées en tribus. Les squads d’une même tribu travaillent sur un domaine fonctionnel ou technique commun.
+Le modèle Spotify, qui n’en est pas un pour les auteurs, propose une organisation en squads, elles-mêmes regroupées en tribus. Les squads d’une même tribu travaillent sur un domaine fonctionnel ou technique commun.
 Afin de créer du lien entre les squads de tribu différente ou d’une même tribu, les équipes ont créé les concepts de chapitre et de guilde. Les chapitres regroupent les personnes ayant la même expertise d’une même tribu afin de partager leurs connaissances. Les guildes sont relativement similaires aux squads mais sont transverses à toute l’organisation.
 
-D’après l’auteur de cet [article](https://www.jeremiahlee.com/posts/failed-squad-goals/), le “modèle” Spotify semble n’avoir jamais été mis en œuvre chez Spotify. Le framework serait donc une ambition de ce que devrait être l’agilité chez Spotify. Il nous est difficile de vérifier les propos de Jeremiah Lee mais il apporte un point de vue intéressant sur ce “modèle” tant copié par les entreprises.
+D’après l’auteur de cet [article](https://www.jeremiahlee.com/posts/failed-squad-goals/), le modèle semble n’avoir jamais été mis en œuvre chez Spotify. Le framework serait donc une ambition de ce que devrait être l’agilité chez Spotify. Il nous est difficile de vérifier les propos de Jeremiah Lee mais il apporte un point de vue intéressant sur ce modèle tant copié par les entreprises.
 
 ##### 3. LeSS (Large-Scale Scrum)
 
@@ -72,13 +72,13 @@ Comme Scrum, une organisation d’équipes LeSS a un seul Product Owner, un seul
 
 Aujourd’hui, les transformations agiles des entreprises sont malheureusement associées à la mise en place de l’un de ces frameworks. SAFe étant l’exemple le plus représentatif de ces changements organisationnels imposés.
 Dans notre monde [VUCA](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity), devons-nous encore parler de transformation ? Afin de s’adapter à notre environnement complexe, les entreprises doivent évoluer sans cesse afin de ne pas être dépassées par leurs concurrents.
-Répondre à la complexité par une organisation complexe comme SAFe, est-ce réellement pertinent ? Personnellement, je ne crois pas. Un système plus “simple” me semble plus adaptable aux difficultés et aux aléas.
+Répondre à la complexité par une organisation complexe comme SAFe, est-ce réellement pertinent ? Personnellement, je ne crois pas. Un système plus "simple" me semble plus adaptable aux difficultés et aux aléas.
 SAFe avec son large éventail d’outils et pratiques, se veut très complet et de ce fait, rassure les managers et les directions, par contre, il laisse peu de place à l’adaptation. Un PI Planning a lieu, en règle générale, tous les trois mois. Comment les équipes peuvent-elles s’organiser en cas d’aléas, d’imprévus ou de difficultés ? Lors de ces mêmes PI Planning, les équipes affichent fièrement leurs dépendances entre elles. Ne devraient-elles pas plutôt montrer comment elles vont les résoudre ?
 
 Le modèle [Cynefin](https://en.wikipedia.org/wiki/Cynefin_framework) donne quelques éléments de réponse afin d’évoluer dans un environnement complexe.
 
 ![image](/assets/images/agilite-echelle/cynefin.png){:class="img-responsive"}
 
-Dans ce type d’environnement, le framework nous propose un processus de décision basé sur “sonder - sentir - répondre”. On est donc dans l’expérimentation. Pour savoir si on est dans la bonne direction, on sonde et on répond. Dans le complexe, il n’y a pas de bonne ou de mauvaise réponse, juste des informations qui nous permettent d’adapter nos pratiques au fur et à mesure. On parle ici de pratiques émergentes.
+Dans ce type d’environnement, le framework nous propose un processus de décision basé sur "sonder - sentir - répondre". On est donc dans l’expérimentation. Pour savoir si on est dans la bonne direction, on sonde et on répond. Dans le complexe, il n’y a pas de bonne ou de mauvaise réponse, juste des informations qui nous permettent d’adapter nos pratiques au fur et à mesure. On parle ici de pratiques émergentes.
 
-En conclusion, le passage à l’agilité à l’échelle doit être mûrement réfléchi et non une simple envie de “suivre la mode”. L’utilisation d’un framework peut être pertinent, par contre, il ne doit pas contraindre les équipes mais créer un espace de travail propice à l’expérimentation. Sans cela, vous risquez de ne pas voir les bénéfices attendus de cette nouvelle culture d’entreprise.
+En conclusion, le passage à l’agilité à l’échelle doit être mûrement réfléchi et non une simple envie de "suivre la mode". L’utilisation d’un framework peut être pertinent, par contre, il ne doit pas contraindre les équipes mais créer un espace de travail propice à l’expérimentation. Sans cela, vous risquez de ne pas voir les bénéfices attendus de cette nouvelle culture d’entreprise.
