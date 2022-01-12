@@ -22,7 +22,7 @@ Initialement réservé aux équipes informatiques, l’agilité s’est progress
 - Diffuser l’agilité dans l’ensemble des services et départements afin d’en faire une nouvelle culture d’entreprise.
 Afin d’accompagner ce changement, les entreprises ont lancé des chantiers importants de déploiement de l’agilité à travers ce qu’on appelle aujourd’hui les transformations agiles.
 
-Les trois frameworks présentés ci-dessous sont les plus connus mais il en existe bien d’autres comme Scrum at Scale, Nexus, DAD (Disciplined Agile Delivery) et Fast Agile (Fluid Scaling Technology) pour ne citer qu’eux.
+Les trois frameworks présentés ci-dessous sont les plus connus mais il en existe bien d’autres comme [Scrum at Scale](https://www.scrumatscale.com/), [Nexus](https://www.scrum.org/resources/scaling-scrum), [DAD](https://www.pmi.org/disciplined-agile/process/introduction-to-dad) (Disciplined Agile Delivery) et [Fast Agile](https://www.fastagile.io/) (Fluid Scaling Technology) pour ne citer qu’eux.
 
 ##### 1. SAFe (Scaled Agile Framework)
 
