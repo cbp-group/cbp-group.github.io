@@ -35,7 +35,7 @@ Les principes de SAFe :
 ![image](/assets/images/agilite-echelle/principes-safe.png){:class="img-responsive"}
 
 SAFe est recommandé pour les équipes de 100 à plusieurs milliers de personnes.
-Il propose une organisation multi-équipes appelée ART (pour Agile Release Train afin de développer l'incrément planifié pendant le PI Planning (pour Program Increment Planning).
+Il propose une organisation multi-équipes appelée ART (Agile Release Train) afin de développer l'incrément planifié pendant le PI Planning (Program Increment Planning).
 Le framework met en avant tout un panel de rôles et de rituels afin de déployer l’agilité. Il propose quatre niveaux d’implémentation de son modèle en fonction de la taille et de la maturité de l’organisation :
 - Essential : représente le niveau minimum. Permet de synchroniser les équipes d’un même ART.
 - Large solution : inclut le niveau essential. Permet de synchroniser plusieurs ART.
