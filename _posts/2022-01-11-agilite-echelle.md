@@ -72,6 +72,7 @@ Comme Scrum, une organisation d’équipes LeSS a un seul Product Owner, un seul
 
 Aujourd’hui, les transformations agiles des entreprises sont malheureusement associées à la mise en place de l’un de ces frameworks. SAFe étant l’exemple le plus représentatif de ces changements organisationnels imposés.
 Dans notre monde [VUCA](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity), devons-nous encore parler de transformation ? Afin de s’adapter à notre environnement complexe, les entreprises doivent évoluer sans cesse afin de ne pas être dépassées par leurs concurrents.
+
 Répondre à la complexité par une organisation complexe comme SAFe, est-ce réellement pertinent ? Personnellement, je ne crois pas. Un système plus "simple" me semble plus adaptable aux difficultés et aux aléas.
 SAFe avec son large éventail d’outils et pratiques, se veut très complet et de ce fait, rassure les managers et les directions, par contre, il laisse peu de place à l’adaptation. Un PI Planning a lieu, en règle générale, tous les trois mois. Comment les équipes peuvent-elles s’organiser en cas d’aléas, d’imprévus ou de difficultés ? Lors de ces mêmes PI Planning, les équipes affichent fièrement leurs dépendances entre elles. Ne devraient-elles pas plutôt montrer comment elles vont les résoudre ?
 
