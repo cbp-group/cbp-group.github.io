@@ -2,7 +2,7 @@
 layout: post
 title:  "Et si on passait à l’échelle ?"
 author: gde
-categories: [ Agilité, Témoignage ]
+categories: [ Agilité ]
 tags: [Agilité]
 image: assets/images/agilite-echelle/agilite-echelle.jpg
 description: "Et si on passait à l’échelle ?"
