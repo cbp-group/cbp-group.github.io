@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Le rôle de Scrum Master"
+title:  "Le Scrum Master chez Kereis"
 author: gde
 categories: [ Agilité, Témoignage ]
 tags: [Agilité]
 image: assets/images/scrum-master/scrum-master.png
-description: "Le rôle de Scrum Master."
+description: "Le Scrum Master chez Kereis."
 featured: true
 hidden: false
 comments: false
 ---
 
 
-Chez Cbp, nous avons mis en place une organisation en équipe produit en février 2017 mais nous n'avions pas attendu ce changement pour déployer l’agilité au sein des équipes. Les premiers Scrum Masters sont apparus avant ce changement organisationnel et avaient une double casquette de chef de projet.
+Chez Cbp, nous avons mis en place une organisation en équipe produit en février 2017 mais nous n'avions pas attendu ce changement pour déployer l’agilité au sein des équipes. Les premiers Scrum Masters sont apparus avant ce changement organisationnel et avaient une double casquette de chef de projet. Le Scrum Master est une fonction à part entière maintenant dans le groupe Kereis.
 
 Mais qu’est-ce qu’un Scrum Master ? Quel est son rôle ? En quoi consiste son travail ? Je vais essayer de répondre à ces questions dans ce nouvel article. Bien évidemment, ceci est ma définition du rôle de Scrum Master porté par mon modèle du monde.
 
