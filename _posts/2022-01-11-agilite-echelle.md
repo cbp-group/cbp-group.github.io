@@ -17,7 +17,7 @@ Je vais essayer de vous présenter dans cet article ce dont il est question derr
 Qu’est-ce qu’on appelle agilité à l’échelle ? 
 
 L’agilité à l’échelle ou agile@scale est un concept qui est apparu au début des années 2010 mais qui s’est popularisé ces dernières années avec les transformations agiles mises en place dans les grands groupes.
-Initialement réservé aux équipes informatiques, l’agilité s’est progressivement diffusée dans tous les services de l’entreprise. Cette mise à l’échelle a permis, de mon point de vue, de répondre à deux besoins :
+Initialement réservée aux équipes informatiques, l’agilité s’est progressivement diffusée dans tous les services de l’entreprise. Cette mise à l’échelle a permis, de mon point de vue, de répondre à deux besoins :
 - La complexité des produits grandit : technologies utilisées, typologie de clients, canaux de distribution. Ils sont à l’image de l’environnement dans lequel ils évoluent : Time To Market réduit, concurrence, nouveaux usages. Afin de répondre à tous ces enjeux, les entreprises mettent en place des organisations qui nécessitent la collaboration de plusieurs équipes IT ;
 - Diffuser l’agilité dans l’ensemble des services et départements afin d’en faire une nouvelle culture d’entreprise.
 Afin d’accompagner ce changement, les entreprises ont lancé des chantiers importants de déploiement de l’agilité à travers ce qu’on appelle aujourd’hui les transformations agiles.
@@ -26,13 +26,19 @@ Les trois frameworks présentés ci-dessous sont les plus connus mais il en exis
 
 ##### 1. SAFe (Scaled Agile Framework)
 
-![image](/assets/images/agilite-echelle/safe.png){:class="img-responsive"}
+<figure>
+    <img src="/assets/images/agilite-echelle/safe.png" alt="SAFe" class="img-responsive">
+ <figcaption align="center">Source : https://www.scaledagileframework.com</figcaption>
+</figure>
 
 Le framework SAFe a été créé en 2011 par Dean Leffingwell. La version 5 a été publiée en février 2021. D’après [Wikipédia](https://fr.wikipedia.org/wiki/Scaled_agile_framework#Adoption_et_limites), il est le framework agile le plus déployé dans le monde. L’auteur s’est inspiré des pratiques lean, agile et devops pour créer son framework et le diffuser dans les entreprises.
 
 Les principes de SAFe :
 
-![image](/assets/images/agilite-echelle/principes-safe.png){:class="img-responsive"}
+<figure>
+    <img src="/assets/images/agilite-echelle/principes-safe.png" alt="Principes SAFe" class="img-responsive">
+ <figcaption align="center">Source : https://www.scaledagileframework.com</figcaption>
+</figure>
 
 SAFe est recommandé pour les équipes de 100 à plusieurs milliers de personnes.
 Il propose une organisation multi-équipes appelée ART (Agile Release Train) afin de développer l'incrément planifié pendant le PI Planning (Program Increment Planning).
@@ -46,7 +52,10 @@ SAFe est largement décrié dans la communauté agile pour sa complexité de mis
 
 ##### 2. Spotify
 
-![image](/assets/images/agilite-echelle/spotify.png){:class="img-responsive"}
+<figure>
+    <img src="/assets/images/agilite-echelle/spotify.png" alt="Spotify" class="img-responsive">
+ <figcaption align="center">Source : https://blog.crisp.se</figcaption>
+</figure>
 
 Henrik Kniberg et Anders Ivarsson ont publié un document en octobre 2012 décrivant ce qui était mis en place dans les équipes Spotify.
 
@@ -57,7 +66,10 @@ D’après l’auteur de cet [article](https://www.jeremiahlee.com/posts/failed-
 
 ##### 3. LeSS (Large-Scale Scrum)
 
-![image](/assets/images/agilite-echelle/less.png){:class="img-responsive"}
+<figure>
+    <img src="/assets/images/agilite-echelle/less.png" alt="LeSS" class="img-responsive">
+ <figcaption align="center">Source : https://less.works</figcaption>
+</figure>
 
 LeSS a été créé par Bas Vodde et Craig Larman en 2013. Il est en grande partie basé sur Scrum et propose donc une organisation multi-équipes Scrum mais avec quelques changements :
 - Le sprint planning : il est organisé en deux parties. La première partie inclut l’ensemble des équipes et permet de synchroniser le travail à venir notamment sur les éventuelles dépendances. Quant à la seconde partie, elle se fait par équipe ;
@@ -78,7 +90,10 @@ SAFe avec son large éventail d’outils et pratiques, se veut très complet et 
 
 Le modèle [Cynefin](https://en.wikipedia.org/wiki/Cynefin_framework) donne quelques éléments de réponse afin d’évoluer dans un environnement complexe.
 
-![image](/assets/images/agilite-echelle/cynefin.png){:class="img-responsive"}
+<figure>
+    <img src="/assets/images/agilite-echelle/cynefin.png" alt="Cynefin" class="img-responsive">
+ <figcaption align="center">Source : https://thecynefin.co</figcaption>
+</figure>
 
 Dans ce type d’environnement, le framework nous propose un processus de décision basé sur "sonder - sentir - répondre". On est donc dans l’expérimentation. Pour savoir si on est dans la bonne direction, on sonde et on répond. Dans le complexe, il n’y a pas de bonne ou de mauvaise réponse, juste des informations qui nous permettent d’adapter nos pratiques au fur et à mesure. On parle ici de pratiques émergentes.
 
