@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Le Scrum Master chez Kereis"
+title:  "Le rôle de Scrum Master"
 author: gde
 categories: [ Agilité, Témoignage ]
 tags: [Agilité]
 image: assets/images/scrum-master/scrum-master.png
-description: "Le Scrum Master chez Kereis."
+description: "Le rôle de Scrum Master."
 featured: true
 hidden: false
 comments: false
