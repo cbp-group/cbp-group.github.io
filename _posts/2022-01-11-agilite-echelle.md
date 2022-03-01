@@ -11,7 +11,7 @@ hidden: false
 comments: false
 ---
 
-Depuis quelques années, nous entendons beaucoup parler d’agilité d’échelle, c’est devenu le sujet à la mode dans l’écosystème agile.
+Depuis quelques années, nous entendons beaucoup parler d’agilité à l’échelle, c’est devenu le sujet à la mode dans l’écosystème agile.
 Je vais essayer de vous présenter dans cet article ce dont il est question derrière ce concept d’agilité d’échelle ainsi que les principaux frameworks proposés sur le marché.
 
 Qu’est-ce qu’on appelle agilité à l’échelle ? 
